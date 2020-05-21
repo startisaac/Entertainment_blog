@@ -1,0 +1,20 @@
+.socialsharing{
+    display: flex;  
+    padding-top:20px ;
+}
+.socialmedia{
+    display: block;
+}
+.authorinformation{
+    padding: 4%;
+    display: grid;
+}
+img{
+    width: 80%;
+    height: 400px;
+    border: solid;
+}
+.postcardsection{
+    margin: auto;
+}
+

@@ -1,0 +1,20 @@
+h2{
+    color: blue;
+}
+ul{
+    color: red;
+    list-style: none;
+    display: flex;
+
+}
+p{
+    color:rosybrown;
+} 
+.welcome_note{
+    text-align: center;
+    font-size: xx-large
+}
+footer{
+    color: cornflowerblue ;
+    text-align: center;
+}

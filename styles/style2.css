@@ -1,0 +1,23 @@
+.firstcard{
+    color: green;
+}
+.secondcard{
+    color: red;
+}
+.thirdcard{
+    color: green;
+}
+forthcard{
+    color: red;
+}
+a{
+    text-decoration: none;
+}
+li{
+    padding: 10px;
+    display: grid;
+}
+h2{
+    color: red;
+}
+
